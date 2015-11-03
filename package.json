@@ -1,6 +1,6 @@
 {
   "name": "deck-of-cards",
-  "version": "0.1.2",
+  "version": "0.1.5",
   "description": "HTML5 Deck of Cards",
   "main": "dist/deck.min.js",
   "jsnext:main": "lib/deck.js",
@@ -31,7 +31,7 @@
     "chokidar": "^1.0.5",
     "jade": "^1.11.0",
     "nib": "^1.1.0",
-    "rollup": "^0.14.1",
+    "rollup": "^0.16.4",
     "stylus": "^0.52.0",
     "uglify-js": "^2.4.24"
   }
